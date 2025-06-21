@@ -14,7 +14,7 @@ Due to the initial class imbalance, where positive labels were more prevalent th
 The project utilizes BERT, a pre-trained language model known for its contextual understanding of text. BERT was fine-tuned using the sentiment-labeled dataset to train a sentiment analysis model. Fine-tuning involves updating the model's parameters using the specific task of sentiment analysis on the customer feedback data.
 
 ## Analysis
-The complete analysis can be viewed [here.](https://github.com/Aravinth-Megnath/NLP-Project/blob/main/Customer_satisfaction.ipynb)
+The complete analysis can be viewed [here.](https://github.com//Kishan269565/Customer_satisfaction/Customer_satisfaction.ipynb)
 
 
 ## Key Features
@@ -114,7 +114,7 @@ We would like to express our gratitude to the developers of BERT and the creator
 Your feedback is important to me! If you have any suggestions, questions, or feedback regarding this project, please feel free to reach out to me at:
 
 - Email: [kishangupta269565@gmail.com]
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/kishan1269565/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/kishan-gupta26/)
 
 I appreciate your valuable input and look forward to hearing from you!
 
