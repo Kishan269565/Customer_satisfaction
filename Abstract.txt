@@ -2,11 +2,21 @@ Sentiment Analysis for an App
 
 
 ## Abstract
-In this project, we analyzed customer feedback for an app designed for online classes and video conferencing. We performed sentiment analysis on the text data and created a new label column to balance the dataset, as all original labels were positive. We also generated negative samples from positive samples to increase the size of the negative class. The resulting dataset was balanced by oversampling the positive class. We split the dataset into train and test using the train_test_split function and trained a BERT base classifier model on the training data. Finally, we evaluated the performance of the model on the test data using the classification report, which showed an overall accuracy of 84%.
+In this project, we analyzed customer feedback for an app designed for online classes and video conferencing. 
+We performed sentiment analysis on the text data and created a new label column to balance the dataset, 
+as all original labels were positive. 
+We also generated negative samples from positive samples to increase the size of the negative class. 
+The resulting dataset was balanced by oversampling the positive class. 
+We split the dataset into train and test using the train_test_split function and trained a BERT base classifier model on the training data. 
+Finally,
+we evaluated the performance of the model on the test data using the classification report, which showed an overall accuracy of 84%.
 
 
 # Improving customer satisfaction : Sentiment Analysis on Customer Feedback for an App Designed for Online Classes and Video Conferencing Using BERT
 
 
 ## Problem Statement:
-The goal of this project is to perform sentiment analysis on customer feedback for an app designed for online classes and video conferencing. The original dataset had only positive labels, which needed to be balanced by generating negative samples from positive ones. We used the resulting dataset to train a BERT base classifier model to predict the sentiment of customer feedback accurately. The model's performance was evaluated on the test data, and we aimed to achieve a high accuracy score.
+The goal of this project is to perform sentiment analysis on customer feedback for an app designed for online classes and video conferencing. 
+The original dataset had only positive labels, which needed to be balanced by generating negative samples from positive ones. 
+We used the resulting dataset to train a BERT base classifier model to predict the sentiment of customer feedback accurately. 
+The model's performance was evaluated on the test data, and we aimed to achieve a high accuracy score.
