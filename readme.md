@@ -36,26 +36,26 @@ Caption: Visualizing the distribution of sentiment labels after performing senti
 
 ### Top 10 Most Frequent Words in "reason" Column after Stopword Removal
 
-![Top 10 Words](https://github.com/Aravinth-Megnath/NLP-Project/assets/120720408/3097dc06-704d-4cdd-9a93-09c87ef6a092)
+![Top 10 Words](https://github.com/Kishan269565/Customer_satisfaction/blob/main/img4.png)
 
 Caption: Bar chart visualization showing the top 10 most frequent words in the "reason" column after removing stopwords.
 
 ### Sentiment Analysis of Customer Feedback with Histogram Visualization
 
-![Sentiment Analysis](https://github.com/Aravinth-Megnath/NLP-Project/assets/120720408/0a461287-cf39-42eb-8a37-89805f8070ef)
+![Sentiment Analysis](https://github.com/Kishan269565/Customer_satisfaction/blob/main/img1.png)
  
 Caption: Histogram visualization of the sentiment scores after performing sentiment analysis on the customer feedback.
 
 
 ### Co-occurrence of Top 30 Most Frequent Words in Customer Feedback Dataset with Heatmap Visualization
 
-![Co-occurrence Heatmap](https://github.com/Aravinth-Megnath/NLP-Project/assets/120720408/501fa775-0883-4c28-9280-f0fe3bdecd44)
+![Co-occurrence Heatmap](https://github.com/Kishan269565/Customer_satisfaction/blob/main/img2.png)
  
 Caption: Heatmap visualization showing the co-occurrence of the top 30 most frequent words in the "reason" column.
 
 ### Distribution of Sentiment Labels in Customer Feedback Dataset as a Pie Chart
 
-![Sentiment Distribution](https://github.com/Aravinth-Megnath/NLP-Project/assets/120720408/cc65b18a-4c1e-4431-966f-f4479c7b6b4f)
+![Sentiment Distribution](https://github.com/Kishan269565/Customer_satisfaction/blob/main/img3.png))
 
 Caption: Pie chart visualization showing the distribution of sentiment labels in the customer feedback dataset.
 
@@ -114,7 +114,7 @@ We would like to express our gratitude to the developers of BERT and the creator
 Your feedback is important to me! If you have any suggestions, questions, or feedback regarding this project, please feel free to reach out to me at:
 
 - Email: [kishangupta269565@gmail.com]
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/aravinth-meganathan-200667a1/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/kishan1269565/)
 
 I appreciate your valuable input and look forward to hearing from you!
 
