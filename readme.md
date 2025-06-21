@@ -30,14 +30,9 @@ The complete analysis can be viewed [here.](https://github.com/Aravinth-Megnath/
 
 ### Visualization of Label Distribution After Sentiment Analysis
 
-![Label Distribution](https://github.com/Aravinth-Megnath/NLP-Project/assets/120720408/0fcaa757-dd55-4491-8d44-9b2ae3284371)
+![Label Distribution](https://github.com/Kishan269565/Customer_satisfaction/blob/main/Readme)
   
 Caption: Visualizing the distribution of sentiment labels after performing sentiment analysis on the customer feedback.
-
-### Word Cloud
-![Word Cloud Visualization](https://github.com/Aravinth-Megnath/NLP-Project/assets/120720408/fa862685-fc74-4f8e-a07b-cd41aef7c424)
-
-
 
 ### Top 10 Most Frequent Words in "reason" Column after Stopword Removal
 
@@ -118,7 +113,7 @@ We would like to express our gratitude to the developers of BERT and the creator
 
 Your feedback is important to me! If you have any suggestions, questions, or feedback regarding this project, please feel free to reach out to me at:
 
-- Email: [aravinthmegnath@gmail.com]
+- Email: [kishangupta269565@gmail.com]
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/aravinth-meganathan-200667a1/)
 
 I appreciate your valuable input and look forward to hearing from you!
